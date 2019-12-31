@@ -11,9 +11,9 @@ const csvWriter = createCsvWriter({
     ]
 })
 
-ids = ['https://edencrest.trackhs.com/api/pms/units/91227','https://edencrest.trackhs.com/api/pms/units/91227']
-user = 'masukkan username dicini'
-pass = 'passwudnya di cini'
+ids = ['URL', 'URL']
+user = 'USER'
+pass = 'PASS'
 
 records = []
 async function getData() {
